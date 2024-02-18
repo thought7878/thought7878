@@ -7,7 +7,7 @@
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thought7878)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thought7878&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **thought7878/thought7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
